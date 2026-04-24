@@ -1,6 +1,8 @@
 # [ASR 2026 - Spoken Numbers Recognition Challenge](https://www.kaggle.com/competitions/asr-2026-spoken-numbers-recognition-challenge/overview)
 Команда Jegor and George ([Егор Шульгин](https://github.com/LeonPechorsky) и [Егор Ворсин](https://github.com/JJegor22))
 
+* Competition_notebook.ipynb - Ноутбук с обучением моедли из пайплайна 1 (основной сабмит);
+* competition_best_model.pth - Веса модели из пайплайна 1 (основной сабмит).
 # Введение
 Сорвенование представляет из себя создание системы автоматического распознавания речи (ASR), которая сможет точно транскрибировать произносимые числа от 1000 до 999 999 на русском языке.
 
